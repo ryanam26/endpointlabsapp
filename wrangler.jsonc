@@ -144,7 +144,7 @@
         "DISPATCH_NAMESPACE": "vibesdk-default-namespace",
         "CLOUDFLARE_AI_GATEWAY": "vibesdk-gateway",
         "CUSTOM_DOMAIN": "endpointlabs.app",
-        "MAX_SANDBOX_INSTANCES": "10",
+        "MAX_SANDBOX_INSTANCES": "1",
         "SANDBOX_INSTANCE_TYPE": "standard"
     },
 	"workers_dev": false,
